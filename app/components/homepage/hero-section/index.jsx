@@ -60,7 +60,7 @@ function HeroSection() {
             >
               <SiLeetcode size={30} />
             </Link>
-              {/* <Link
+            {/* <Link
                 href={personalData.twitter}
                 target='_blank'
                 className="transition-all text-pink-500 hover:scale-125 duration-300"
@@ -144,8 +144,57 @@ function HeroSection() {
                 <span className="text-amber-300">Azure</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Google Cloud Engine</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Scala</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Python</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Java</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Apache Spark</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">NLP</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">PyTorch</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Sklearn</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Pandas</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">NumPy</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Matplotlib</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">TensorFlow</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">OpenCV</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Snowflake</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">BigQuery</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Databricks</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">PowerBI</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">JIRA</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Jenkins</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">TailwindCSS</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Vercel</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Oracle</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Hadoop</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Kafka</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">MNE</span>
                 <span className="text-gray-400">{"'],"}</span>
-                
+
+
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">hardWorker:</span>
