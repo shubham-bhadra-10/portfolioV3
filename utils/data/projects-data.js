@@ -36,7 +36,7 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'Credit CardAnalysis',
+        name: 'CreditWise Analysis - Credit Card PowerBI Dashboard ',
         description: "Created a comprehensive credit card analysis report using PowerBI, exhibiting the potential to construct visually appealing and informative dashboards. Imported data from PostgreSQL using SQL queries, demonstrating database management and integration with PowerBI for visualization and analysis.",
         tools: ['Microsoft PowerBI', 'PostgresSQL' ,'DAX'],
         code: 'https://github.com/shubham22122001/Credit-card-PowerBI',
@@ -56,18 +56,18 @@ export const projectsData = [
     },
     {
         id: 6,
-        name: 'Olympic Data Engineering - ETL Pipeline using Azure',
-        description: "This project focuses on executing a comprehensive data engineering workflow of Olympic data on the Azure Cloud. The main tasks include extracting data from an API using Azure Data Factory, transforming the data with Azure Databricks, loading the transformed data into Azure Data Lake Storage, and performing data analysis using Azure Synapse Analytics",
-        tools: ['Azure Data Factory', 'Azure Databricks', 'Azure Data Lake Storage', 'Apache Spark', 'Azure Synapse Analytics', 'Python', 'SQL'],
-        code: 'https://github.com/shubham22122001/Olympic_data_eng_azure',
+        name: 'Bing News Intelligence System',
+        description: "Implemented automated data ingestion from the Bing API using Azure Data Factory, transforming raw JSON data into curated Delta Tables with Synapse Data Engineering. Conducted sentiment analysis on news articles using Synapse Data Science and created interactive reports in Power BI, enabling stakeholders to derive actionable insights and informed decision-making. Orchestrated data workflows with Azure Data Factory, configured alerts with Data Activator, and performed end-to-end testing to ensure the reliability and accuracy of the data analytics pipeline.",
+        tools: ['Azure Data Factory', 'Synapse Data Engineering', 'Delta Tables', 'Azure Synapse Data Science', 'Power BI', 'Data Activator', 'Python', 'SQL'],
+        code: '',
         demo: '',
-        image: ayla,
+        image: ayla , // Update 'bingNewsImage' with the actual image variable if available
         role: 'Data Engineering',
-        
-    },
+    }
+    ,
     {
         id: 7,
-        name: 'Uber Data Engineering - ETL Pipeline using GCP',
+        name: 'TripInsights – Uber Data Engineering Project ',
         description: "This project focuses on analyzing Uber data to gain insights into ride patterns and trends using various tools and technologies, including Google Cloud Platform (GCP), Python, Mage Data Pipeline Tool, BigQuery, and Looker Studio. The key objectives are to identify the top 10 pickup locations, analyze trips based on passenger count, and examine how the average fare amount varies by hour and Created an interactive dashboard in Looker Studio, visualizing trip statistics and identifying trends. Analyzed data for over 5,000 trips pinpointed the top  pickup locations in New York City.",
         tools: ['Python', 'Google Cloud Platform (GCP)', 'Mage Data Pipeline Tool', 'BigQuery', 'Looker Studio'],
         code: 'https://github.com/shubham22122001/Uber_Data_Engineering_Project',
