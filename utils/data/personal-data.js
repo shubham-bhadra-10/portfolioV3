@@ -11,7 +11,7 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/sjkbhadra/',
   leetcode: 'https://leetcode.com/u/user9067bR/',
   resume:
-    'https://drive.google.com/file/d/1ZLwtlLVQNxVzLXBWr8xZKPM-RhVg6yF_/view?usp=sharing',
+    'https://docs.google.com/document/d/1j9vX2WIj5r1Onqevs4Jhh-ww43v0LDwSOCLOG285kJ8/edit?usp=sharing',
   resumeDA:
     'https://docs.google.com/document/d/1f-PO3tFwggpahUyRZXqx7iQF50FfJVcXi6FJgw_L2YE/edit?usp=sharing',
 
