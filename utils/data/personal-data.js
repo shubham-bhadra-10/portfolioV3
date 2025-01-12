@@ -13,7 +13,7 @@ export const personalData = {
   resume:
     'https://drive.google.com/file/d/1OTMnNmMbRz7k90CzR9sEmmEp8_KUAMGy/view?usp=sharing',
   resumeDA:
-    'https://docs.google.com/document/d/1f-PO3tFwggpahUyRZXqx7iQF50FfJVcXi6FJgw_L2YE/edit?usp=sharing',
+    'https://drive.google.com/file/d/1oaiuloOAz3KhhgRTIApILkVE-xaz4rgz/view?usp=sharing',
 
   devUsername: 'shubham10',
 };
