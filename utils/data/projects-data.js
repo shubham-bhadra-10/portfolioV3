@@ -114,7 +114,7 @@ export const projectsData = [
     role: 'Data Engineering',
   },
   {
-    id: 7,
+    id: 8,
     name: 'WellEat',
     description:
       'Developed a MERN-based health recommendation platform that utilizes OpenAI to provide AI-driven ingredient safety classification and personalized diet and recipe suggestions, catering to over 50 beta users. Designed secure RESTful APIs in Node.js with enhanced indexing and caching for real-time safety scoring and nutritional insights. Additionally, built a responsive React.js frontend aligned with accessibility standards, offering interactive food safety analysis and personalized recommendations to enhance user engagement.',
