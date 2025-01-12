@@ -9,11 +9,11 @@ export const personalData = {
   address: 'Boston,MA,USA ',
   github: 'https://github.com/shubham-bhadra-10',
   linkedIn: 'https://www.linkedin.com/in/sjkbhadra/',
-  leetcode: 'https://leetcode.com/u/user9067bR/',
+  leetcode: 'https://leetcode.com/u/shubhamcodes22/',
   resume:
     'https://drive.google.com/file/d/1OTMnNmMbRz7k90CzR9sEmmEp8_KUAMGy/view?usp=sharing',
   resumeDA:
-    'https://drive.google.com/file/d/1oaiuloOAz3KhhgRTIApILkVE-xaz4rgz/view?usp=sharing',
+    'https://drive.google.com/file/d/1oaiuSloOAz3KhhgRTIApILkVE-xaz4rgz/view?usp=sharing',
 
   devUsername: 'shubham10',
 };
