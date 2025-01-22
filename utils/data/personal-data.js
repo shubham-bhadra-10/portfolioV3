@@ -11,9 +11,9 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/sjkbhadra/',
   leetcode: 'https://leetcode.com/u/shubhamcodes22/',
   resume:
-    'https://drive.google.com/file/d/1OTMnNmMbRz7k90CzR9sEmmEp8_KUAMGy/view?usp=sharing',
-  resumeDA:
-    'https://drive.google.com/file/d/1oaiuSloOAz3KhhgRTIApILkVE-xaz4rgz/view?usp=sharing',
+    'https://drive.google.com/file/d/1Zx_z8zdUtKHA6wBBtUMlvj9cAKZjm46n/view?usp=sharing',
+  // resumeDA:
+  //   'https://drive.google.com/file/d/1oaiuSloOAz3KhhgRTIApILkVE-xaz4rgz/view?usp=sharing',
 
   devUsername: 'shubham10',
 };
